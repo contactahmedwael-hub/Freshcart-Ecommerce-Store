@@ -2,6 +2,12 @@
 
 FreshCart is a responsive e-commerce storefront for groceries and everyday essentials. Customers can browse and search products, explore categories and brands, manage a wishlist and shopping cart, and complete checkout with a saved or new delivery address.
 
+## 🚀 Live Demo
+
+[![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://freshcart-ecommerce-store.vercel.app/)
+
+🌐 **Visit FreshCart:** https://freshcart-ecommerce-store.vercel.app/
+
 ## Features
 
 - Product discovery with search, category, brand, price, and sort filters
